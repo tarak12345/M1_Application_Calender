@@ -4,29 +4,30 @@
 This Calender will give details of all days of the year.
 By Using this Code we can get any days of the particular year.
 
+## SWOT ANALYSIS
 
-## STRENGTH
+### STRENGTH
 
 
 By entering the day number will get particular day.
 By entering the day name will get particular date.
 
 
-## WEEKNESS
+### WEEKNESS
 
 
 Need physical access to your computer or PDA/smartphone to see schedule.
 Data corruption is possible, altering or even deleing events.
 
 
-## OPPORTUNITYS
+### OPPORTUNITYS
 
 
 Calendars are useful tools for keeping track of upcoming meetings, deadlines, and milestones.
 hey can help you visualize your schedule and remind you of important events, such as holidays and vacation time.
 
 
-## TREADS
+### TREADS
 
 
 There can be technical issue sometimes
@@ -53,6 +54,11 @@ This calendar app uses machine learning to do much of the work for you. It learn
 
 
 It is used by serching for events and festivels
+
+
+### HOW
+
+This project is implemented by using loops, function call and other functionalities of C
 
 
 ## TOOLS
