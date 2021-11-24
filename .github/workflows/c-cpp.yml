@@ -1,12 +1,16 @@
-using System;
+name: static code cppcheck
 
-namespace Restaurent_Bill_system
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+on: [push]
+  
+jobs:
+  build:
+    name: cppcheck
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Install cppcheck
+      run: sudo apt-get -y install cppcheck
+    - name: cppcheck code
+      run: cppcheck 3_Implementation
