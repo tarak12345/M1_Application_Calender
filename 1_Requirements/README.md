@@ -67,13 +67,13 @@ Virtual Studio Code
 C Programming
 
 
-HIGH LEVEL REQUIREMENTS
+## HIGH LEVEL REQUIREMENTS
 
 
 The primary requirement is use of a calendar is to identify days
 Calendar is informed about or to agree on a future event and to record an event that has happened
 
-LOW LEVEL REQUIREMENTS
+## LOW LEVEL REQUIREMENTS
 
 It helps us prioritize. 
 It keeps us on track.
