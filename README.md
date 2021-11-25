@@ -1,3 +1,7 @@
+**[![Git Inspector](https://github.com/tarak12345/M1_Application_Calender/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/tarak12345/M1_Application_Calender/actions/workflows/Git_Inspector.yml)**
+
+
+
 # M1_Application_Calender
 
 ### Folder Structure
