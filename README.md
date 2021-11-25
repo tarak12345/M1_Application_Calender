@@ -1,6 +1,9 @@
 **[![Git Inspector](https://github.com/tarak12345/M1_Application_Calender/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/tarak12345/M1_Application_Calender/actions/workflows/Git_Inspector.yml)**
 
 
+[![static code cppcheck](https://github.com/tarak12345/M1_Application_Calender/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/tarak12345/M1_Application_Calender/actions/workflows/c-cpp.yml)
+
+
 
 # M1_Application_Calender
 
